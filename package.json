@@ -1,0 +1,17 @@
+{
+  "name": "linux-monitoring-dashboard",
+  "version": "1.0.0",
+  "main": "monitor.js",
+  "scripts": {
+    "dev": "node monitor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "os": "^0.1.2"
+  }
+}
